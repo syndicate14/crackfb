@@ -1,2 +1,12 @@
-# crackfbi
-Run Command : python fb.py
+# crackfb
+Run Command : 
+apt update && apt upgrade
+pkg install git
+pkg install curl
+pkg install php
+pip install requests
+pip install mechanize
+pip install bs4
+git clone https://github.com/syndicate14/fbl.py
+cd FBL
+python fbl.py
