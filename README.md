@@ -1,4 +1,4 @@
-# crackfb
+# Run Termux
 Run Command : 
 apt update && apt upgrade
 pkg install git
@@ -7,6 +7,6 @@ pkg install php
 pip install requests
 pip install mechanize
 pip install bs4
-git clone https://github.com/syndicate14/fbl.py
+git clone https://github.com/syndicate14/crackfb.git
 cd FBL
 python fbl.py
